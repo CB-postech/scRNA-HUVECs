@@ -1,3 +1,6 @@
+##### Code for
+##### Author: Bum Suk Kim (funpys@dgist.ac.kr)
+
 library(DropletUtils)
 library(scater)
 load("ensemblGenes2017-08-09.RData")
