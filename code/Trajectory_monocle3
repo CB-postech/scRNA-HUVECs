@@ -1,3 +1,6 @@
+##### Code for
+##### Author: Bum Suk Kim (funpys@dgist.ac.kr)
+
 library(Seurat)
 library(monocle3)
 
